@@ -1,5 +1,6 @@
 This is a bash version of SciVal author metrics API: https://dev.elsevier.com/scival.html#!/SciVal_Author_Lookup_API/authorMetrics
-In this example we collect the researcher's publication data in the past 6 years. For instance, in 2023, we collect the data from 2017-2022. 
+In this example, we collect the researcher's publication data in the past 6 years. For instance, in 2023, we collect the data from 2017-2022. 
+
 The publication data we collect in this example include: the total number of scholarly outputs, FWCI (Field-weighted Citation Impact), Publications In Top 10% Journal, and Outputs In Top 10% Citation. For the metrics guide, go to https://elsevier.widen.net/s/chpzk57rqk/acad_rl_elsevierresearchmetricsbook_web 
 
 1. go to https://dev.elsevier.com/apikey/manage to get your API keys, and put in line 1. apikey=
